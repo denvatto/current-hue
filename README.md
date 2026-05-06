@@ -1,2 +1,2 @@
-# current-hue
-A functional tool part of the Portfolio.
+# Current Hue Tool
+A functional tool part of the [Portfolio](https://github.com/denvatto/portfolio).

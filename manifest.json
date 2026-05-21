@@ -1,5 +1,6 @@
 {
   "name": "Current Hue",
-  "short_name": "Current Hue"
+  "short_name": "Current Hue",
+  "start_url": "./index.html"
 }
 

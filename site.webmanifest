@@ -2,6 +2,8 @@
   "name": "Current Hue",
   "short_name": "Current Hue",
   "start_url": "/",
-  "display": "standalone"
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000"
 }
 

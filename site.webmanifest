@@ -1,6 +1,7 @@
 {
   "name": "Current Hue",
   "short_name": "Current Hue",
-  "start_url": "/"
+  "start_url": "/",
+  "display": "standalone"
 }
 
